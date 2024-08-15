@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150174906687",
+    "project_id": "globalchatapp-67cd7",
+    "storage_bucket": "globalchatapp-67cd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150174906687:android:3e0349d83634ba3eea7b8a",
+        "android_client_info": {
+          "package_name": "com.globalchatapps.globalch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6kyPf8gWOSZBmrbajV18E6lCtPSkxLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150174906687:android:f8a97c6691e5be7dea7b8a",
+        "android_client_info": {
+          "package_name": "com.practiceapp.chitchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6kyPf8gWOSZBmrbajV18E6lCtPSkxLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
