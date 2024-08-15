@@ -1,6 +1,6 @@
 # chitchatapp
 
-A new Flutter project.
+ChitChatApp is a feature-rich chat application built with Flutter and Firebase. It supports user authentication, real-time messaging, and profile management. The app features a sleek, user-friendly interface and leverages Firebase for secure data storage and seamless real-time updates.
 
 ## Getting Started
 
